@@ -1,4 +1,5 @@
 **Instance:** Dan Hawk
+
 FirstName("Dan")
 LastName("Hawk")
 BirthYear(1985)
@@ -8,6 +9,7 @@ Gender("Male")
 HasTransport(True)
 
 **Methods**
+
 GetName("Dan Hawk")
 GetAge(34)
 UpdateSalary(1000.00) -> Salary updated to 1000.00
