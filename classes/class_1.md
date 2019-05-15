@@ -18,7 +18,7 @@ HasTransport(Boolean)
 
 **Methods**
 
-GetName(Takes first name and appends the last name to it. Stores result in variable.)
+GetName(Takes first name and appends the last name to it. Stores result in variable. Returns result.)
 
 GetAge(Checks what year the teacher was born and subtracts it from the current year. Returns the result.)
 
