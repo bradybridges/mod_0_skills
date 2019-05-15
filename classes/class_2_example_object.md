@@ -1,6 +1,7 @@
 **Instance:** Ralph Smith
 
 **Attributes**
+
 FirstName("Ralph")
 LastName("Smith")
 GradeLevel(4)
@@ -11,6 +12,7 @@ LunchAccountId(11232231)
 Classes(["Math","Science","Reading"])
 
 **Methods**
+
 GetName("Ralph Smith")
 AddClass("Social Studies")-> "Social Studies" added to Classes array
 RemoveClass("Math")->"Math" removed from Classes array
