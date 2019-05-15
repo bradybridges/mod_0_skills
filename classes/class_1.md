@@ -1,6 +1,7 @@
 **Class:** Teacher
 
 **Attributes** 
+
 FirstName(String)
 LastName(String)
 BirthYear(Int)
@@ -10,6 +11,7 @@ Gender(String)
 HasTransport(Boolean)
 
 **Methods**
+
 GetName(Takes first name and appends the last name to it. Stores result in variable.)
 
 GetAge(Checks what year the teacher was born and subtracts it from the current year. Returns the result.)
