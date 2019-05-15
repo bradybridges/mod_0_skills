@@ -1,3 +1,5 @@
+**Class:** Teacher
+
 **Instance:** Dan Hawk
 
 FirstName("Dan")
