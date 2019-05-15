@@ -6,17 +6,17 @@ FirstName(String)
 
 LastName(String)
 
-GradeLevel(int)
+GradeLevel(Integer)
 
 Gender(String)
 
-TakesBus(boolean)
+TakesBus(Boolean)
 
-HasLunchAccount(boolean)
+HasLunchAccount(Boolean)
 
-LunchAccountId(int)
+LunchAccountId(Integer)
 
-Classes(array)
+Classes(Array)
 
 **Methods**
 
