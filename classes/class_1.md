@@ -3,11 +3,17 @@
 **Attributes** 
 
 FirstName(String)
+
 LastName(String)
+
 BirthYear(Int)
+
 Subject(String)
+
 Salary(Float)
+
 Gender(String)
+
 HasTransport(Boolean)
 
 **Methods**
