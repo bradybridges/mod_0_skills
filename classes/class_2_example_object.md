@@ -1,3 +1,5 @@
+**Class:** Student
+
 **Instance:** Ralph Smith
 
 **Attributes**
