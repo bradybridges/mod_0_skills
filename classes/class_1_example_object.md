@@ -1,11 +1,17 @@
 **Instance:** Dan Hawk
 
 FirstName("Dan")
+
 LastName("Hawk")
+
 BirthYear(1985)
+
 Subject("Math")
+
 Salary(1,000,000.00)
+
 Gender("Male")
+
 HasTransport(True)
 
 **Methods**
