@@ -1,6 +1,7 @@
 **Becoming A Turing Student**
 
-```1. Get Accepted At Turing
+``` 
+1. Get Accepted At Turing
 
 	1.1 Study LSAT
 		1.1.1 Find Resources For LSAT Practice
